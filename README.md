@@ -1,4 +1,4 @@
-# Gradient Boosting for Spatial Regression Models with Autoregressive Disturbances
+# Fast and Scalable Variable Selection for Spatial Autoregressive Models
 
 This repository provides access to fast and scalable variable selection techniques for spatial autoregressive models.
 It includes:  
