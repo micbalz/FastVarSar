@@ -13,7 +13,8 @@ The repository serves as a foundation for replication.
 
 For in-depth derivations and explanations of fast and scalable variable selection for spatial autoregressive models, refer to: 
 
-tba.
+Balzer, M. (2026). Fast and scalable variable selection for spatial autoregressive models.
+Statistical Papers, 67(38). https://doi.org/10.1007/s00362-026-01819-w
 
 ## Example 
 ```
